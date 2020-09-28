@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 27 Sep 2020 21:29:42 at https://img2txt.com/en +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://img2txt.com/en -O1 "C:\Users\pc\Desktop\web designing\sample1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:30:22	Warning: 	Found for https://img2txt.com/
+21:30:22	Warning: 	File has moved from https://img2txt.com/ to https://img2txt.com/de
+21:30:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://img2txt.com/en)
+21:32:27	Error: 	"Not Found" (404) at link https://img2txt.com/en/my-ocr/delete (from https://img2txt.com/en/my-ocr)
+21:32:27	Warning: 	Moved Permanently for https://img2txt.com/faq/
+21:32:27	Warning: 	File has moved from https://img2txt.com/faq/ to http://img2txt.com/faq
+21:32:29	Warning: 	Link https://img2txt.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+21:32:32	Error: 	"Not Found" (404) at link https://img2txt.com/de/my-ocr/delete (from https://img2txt.com/de/my-ocr)
+21:32:37	Error: 	"Not Found" (404) at link https://img2txt.com/es/my-ocr/delete (from https://img2txt.com/es/my-ocr)
+21:32:41	Error: 	"Not Found" (404) at link https://img2txt.com/fr/my-ocr/delete (from https://img2txt.com/fr/my-ocr)
+21:32:44	Error: 	"Not Found" (404) at link https://img2txt.com/it/my-ocr/delete (from https://img2txt.com/it/my-ocr)
+21:32:48	Error: 	"Not Found" (404) at link https://img2txt.com/pl/my-ocr/delete (from https://img2txt.com/pl/my-ocr)
+21:32:52	Error: 	"Not Found" (404) at link https://img2txt.com/ru/my-ocr/delete (from https://img2txt.com/ru/my-ocr)
+21:32:54	Error: 	"Not Found" (404) at link https://img2txt.com/uk/my-ocr/delete (from https://img2txt.com/uk/my-ocr)
+21:32:57	Error: 	"Not Found" (404) at link https://img2txt.com/cn/my-ocr/delete (from https://img2txt.com/cn/my-ocr)
+21:33:01	Warning: 	Moved Permanently for https://img2txt.com/fr/
+21:33:01	Warning: 	File has moved from https://img2txt.com/fr/ to http://img2txt.com/fr
+21:33:01	Warning: 	Moved Permanently for https://img2txt.com/pl/
+21:33:01	Warning: 	File has moved from https://img2txt.com/pl/ to http://img2txt.com/pl
+21:33:01	Warning: 	Moved Permanently for https://img2txt.com/it/
+21:33:01	Warning: 	File has moved from https://img2txt.com/it/ to http://img2txt.com/it
+21:33:01	Warning: 	Moved Permanently for https://img2txt.com/es/
+21:33:01	Warning: 	File has moved from https://img2txt.com/es/ to http://img2txt.com/es
+21:33:01	Warning: 	Moved Permanently for https://img2txt.com/de/
+21:33:01	Warning: 	File has moved from https://img2txt.com/de/ to http://img2txt.com/de
+21:33:01	Warning: 	Moved Permanently for https://img2txt.com/ru/
+21:33:01	Warning: 	File has moved from https://img2txt.com/ru/ to http://img2txt.com/ru
+21:33:01	Warning: 	Moved Permanently for https://img2txt.com/en/
+21:33:01	Warning: 	File has moved from https://img2txt.com/en/ to http://img2txt.com/en
+21:33:01	Warning: 	Moved Permanently for https://img2txt.com/uk/
+21:33:01	Warning: 	File has moved from https://img2txt.com/uk/ to http://img2txt.com/uk
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 19 seconds : 140 links scanned, 119 files written (4523437 bytes overall) [2884761 bytes received at 14496 bytes/sec], 3376972 bytes transferred using HTTP compression in 106 files, ratio 35%, 21.8 requests per connection
+(10 errors, 21 warnings, 0 messages)
